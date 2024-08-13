@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Not Task, data
+/Task
+/data
 # Distribution / packaging
 .Python
 build/
